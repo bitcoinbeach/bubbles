@@ -11,7 +11,7 @@ BUBBLEs describe the concepts and principles that Bitcoin Beach-like efforts sho
 
 ## Table of Contents
 
-[Prologue](./bubble-00.md)
+[BUBBLE-00: Prologue](./bubble-00.md)
 
 [BUBBLE-01: Definitions](./bubble-01.md)
 
