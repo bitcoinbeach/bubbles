@@ -1,5 +1,5 @@
 # BUBBLE-02: Motivations
-\
+
 A BBLE must endeavor to solve one or more core social needs in its target geographic area. Merely promoting Bitcoin adoption on Bitcoin's own merits is not sufficient. 
 
 Here's why:

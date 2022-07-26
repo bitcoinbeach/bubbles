@@ -3,12 +3,9 @@ _By Mike Peterson_<br>
 _Director, Bitcoin Beach_<br>
 _June 2022_
 
-
 Three years ago I attended a meeting that changed the trajectory of my life. The meeting was with the advisor of an early Bitcoin adopter and philanthropist who wanted to see Bitcoin used in meaningful ways to change lives. I left the meeting energized with a sense that something radical was being birthed. I have always seen the world very differently, which can sometimes be alienating. Leaving this meeting felt the opposite. I sensed I understood what this donor wanted to see, maybe even more than the advisor explaining it to me. I returned home and banged out the following unpolished proposal. I had a hunch this donor wanted something very different. I don't care about the procedure or the right way of doing things (or even correct grammar or spelling if you follow me on Twitter). I sensed this visionary early Bitcoiner was a kindred spirit. They just wanted someone who could get the impossible done and not give them excuses as to why it couldn’t be. They wanted to see the world’s first Bitcoin circular economy sparked into existence, and our team was crazy enough to think we could make it happen. The following fevered proposal was sent out that night: a proposal light on details and loaded with naive idealism. Reflecting three years after writing this — 2.5 years after the project launched — it is shocking that it has all played out according to plan.
 
-
 Here is the letter that started it all, from 2019:
-
 
 _We have the opportunity to use Bitcoin to transform one of the poorest and most isolated villages in El Salvador. El Salvador is the smallest and most densely-populated country in Central America and consistently has the highest murder rate in the world. The citizens of El Salvador are desperately fleeing in record numbers, with over 20% of Salvadorans now living in the U.S. because of this._
 
@@ -41,6 +38,5 @@ _Our goal is that by the end of three years, people worldwide will know about Bi
 _Furthermore, Agua Fria's businesses will pay employees in bitcoin, and suppliers will accept bitcoin as payment for supplies sold to the local businesses. Moreover, we believe that the increased tourism will benefit locally-owned businesses because the local population will have the resources to start small businesses. Finally, we think that after three years, the system will be strong enough to go forward on its own and that we can begin to withdraw the monthly bitcoin stipend without impacting the ecosystem. By that point, bitcoin will be entrenched, and everyone will have seen the benefits of transacting in bitcoin rather than fiat._
 
 _As I mentioned, what we want to do is revolutionary, and we believe it will impact the poor and bitcoin in a way almost nothing else can. We realize this is far beyond the scope of your current projects, but we think the impact will be genuinely world-changing._
-
 
 It is one thing to have a vision, and it is another thing to be able to implement it. The reason Bitcoin Beach became a success story rather than a cautionary tale comes down to the Salvadoran team on the ground grinding and putting in the work to make it happen. 100% of the credit goes to these ambitious community-minded leaders who were able to take a silly dream and turn it into a world-changing reality. We also give huge credit to the president of El Salvador, Nayib Bukele. He has taken a huge political risk to do what is needed to bring lasting transformation to El Salvador. The Bitcoin Beach team is now focused on continuing to transform El Salvador, but also finding other young servant leaders worldwide that want to transform their communities. We cannot wait to see what happens in the next three years. 
