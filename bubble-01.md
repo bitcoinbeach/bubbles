@@ -1,8 +1,8 @@
 # BUBBLE-01: Definitions
 
-We define a **Bitcoin Beach-Like Effort (BBLE)** to be a real-life endeavor to create a circular Bitcoin economy in a particular geographic region.
+We define a **Bitcoin Beach-Like Effort (BBLE)** to be a physical space endeavor to create a circular Bitcoin economy in a particular geographic region.
 
-By **real-life**, we mean the endeavor should take place in meatspace: in a _real_ physical community with _real_ people. Digital circular Bitcoin economies are important too, but BUBBLE guidelines are intended to be applied to real-life communities.
+By **physical space**, we mean the endeavor should take place in meatspace: in a _real_ physical community with _real_ people living in a specific geographic location. Digital circular Bitcoin economies are important too, but BUBBLE guidelines are intended to be applied to communities living in the same physical space.
 
 By **circular bitcoin economy**, we mean a marketplace of goods and services in which merchants and consumers use bitcoin as the medium of exchange. 
 
